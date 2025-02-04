@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0cbb3880.css",
+    "main.js": "/react-portfolio/static/js/main.8f2732a1.js",
+    "static/media/03.webp": "/react-portfolio/static/media/03.22dc0fe3b5b0f2913d84.webp",
+    "static/media/05.webp": "/react-portfolio/static/media/05.3a023ce17d6e26f34c94.webp",
+    "static/media/01.webp": "/react-portfolio/static/media/01.9b374a9339b37eb8cf13.webp",
+    "static/media/06.webp": "/react-portfolio/static/media/06.a6b083cd4ad5802f15c4.webp",
+    "static/media/04.webp": "/react-portfolio/static/media/04.d66dfbf297477e023917.webp",
+    "static/media/02.webp": "/react-portfolio/static/media/02.c42e7133f5dae89ac0f5.webp",
+    "static/media/header-bg.webp": "/react-portfolio/static/media/header-bg.aa978b69847303442d0c.webp",
+    "static/media/sun.svg": "/react-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/react-portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/react-portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/react-portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/telegram.svg": "/react-portfolio/static/media/telegram.ccb49b99ecd4cd8289580e8fd08bf5c4.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.0cbb3880.css.map": "/react-portfolio/static/css/main.0cbb3880.css.map",
+    "main.8f2732a1.js.map": "/react-portfolio/static/js/main.8f2732a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cbb3880.css",
+    "static/js/main.8f2732a1.js"
+  ]
+}
